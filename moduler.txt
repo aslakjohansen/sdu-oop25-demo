@@ -1,0 +1,8 @@
+- intro
+- git
+- primitive typer
+- branching
+- data
+- funktioner
+- exceptions
+
