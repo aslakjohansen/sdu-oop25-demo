@@ -1,4 +1,4 @@
-- introduction
+- introduction / introduktion
 - git
   - clone
   - add
