@@ -2,6 +2,8 @@
 - git
 - primitive typer
 - choice
+  - branching
+  - loops
 - data
 - funktioner
 - exceptions
