@@ -1,5 +1,9 @@
 - intro
 - git
+  - clone
+  - add
+  - commit
+  - push/pull
 - primitive typer
 - choice
   - branching
